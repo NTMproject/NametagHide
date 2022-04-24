@@ -1,0 +1,7 @@
+name: NTMnametaghide
+version: '${project.version}'
+main: by.quaks.ntmnametaghide.main
+api-version: 1.18
+authors: [ qu4ks ]
+description: Plugin that removes nicknames from players. Developed specifically for the NTM project server.
+website: NTM NTH
