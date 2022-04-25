@@ -20,7 +20,7 @@ public final class main extends JavaPlugin implements Listener {
         team = scoreboard.registerNewTeam("hide_nametag");
         team.setNameTagVisibility(NameTagVisibility.NEVER);
         team.setCanSeeFriendlyInvisibles(false);
-        //да пизда
+        //да
     }
 
     @EventHandler
